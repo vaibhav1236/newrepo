@@ -1,0 +1,147 @@
+/* #vaibhav{
+    border-style:dashed;
+    border-color:blueviolet;
+    text-decoration:solid;
+    color:red;
+    margin-top: 1%;
+    padding: auto;
+    text-align:center;
+    text-shadow: rgb(167, 228, 25);
+    direction:dashed;
+    font-style: oblique;
+    font-size: medium;
+    font-family: "Open Sans";
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-qx7O3O8VN9gG_H_HK0LBCiqJaRKsOqT0w&usqp=CAU');
+    text-decoration-color:yellow;   
+}
+
+.xyz{
+
+    background-color: #00ffff;
+
+}
+
+#asdf{
+    background-color:bisque;
+    border-color:red;
+    border-style:solid;
+    padding-top: 25%;
+    margin: top 50%;
+}
+
+a{
+    background-color:violet;
+    color:red;
+}
+a:hover{
+    background-color:blue;
+    color:black;
+}
+a:active {
+    font-size: 4.5em;
+} */
+
+div{
+    margin-top: 20px;
+
+ 
+}
+
+
+.pqr{
+
+    
+
+    background-color:rgb(54, 196, 191);
+    color:rgb(218, 116, 69);
+    height: 20px;
+
+
+}
+
+li{
+    height: 50px;
+    display:inline;
+    margin: 10px;
+    padding-left: 100px;
+    
+}
+
+ 
+a:hover{
+    color:brown;
+    background-color:yellow;
+    font-size: 50px;
+    font-style: oblique;
+} 
+a:active{
+    
+    font-style: italic;
+}
+
+
+
+#vai{
+    margin: 50px;
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    border-style: solid;
+    border-color: blueviolet;
+    border-spacing: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.qwe{
+
+    border-style:solid;
+    padding-top: 100px;
+    position: fixed;
+    padding-bottom:700px;
+    padding-left:100px;
+    
+}
+
+
+#well{
+    border-style: solid;
+    position:static;
+    margin: top 100px;
+    padding: 70px;
+    margin-left:100px ;
+} 
+
+
+body {
+    background-color:beige;
+}
+
+
+ /* .container{
+    border-style:solid;
+    border-color:blueviolet;
+    color:red;
+}  */
+
+#ty{
+    background-image: url(https://image.shutterstock.com/image-illustration/abstract-background-green-polygonal-lines-260nw-1922706260.jpg);
+    color:blueviolet;
+    padding: 100px;
+}
+
+
+
+.container{
+
+    border-style:solid;
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+
+
+
+
+
+
